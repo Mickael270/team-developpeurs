@@ -1,1 +1,139 @@
-# team-developpeurs
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Formule 1 - Présentation</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#f2f2f2;
+    color:#222;
+}
+
+header{
+    background:#b30000;
+    color:white;
+    text-align:center;
+    padding:50px;
+}
+
+.container{
+    max-width:1000px;
+    margin:auto;
+    padding:40px;
+}
+
+.block{
+    display:flex;
+    align-items:center;
+    background:white;
+    margin-bottom:40px;
+    border-radius:15px;
+    overflow:hidden;
+    box-shadow:0 5px 15px rgba(0,0,0,0.2);
+}
+
+.block img{
+    width:45%;
+    height:300px;
+    object-fit:cover;
+}
+
+.text{
+    padding:25px;
+}
+
+h2{
+    color:#b30000;
+}
+
+footer{
+    text-align:center;
+    padding:20px;
+    background:#222;
+    color:white;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>🏁 La Formule 1</h1>
+<p>Présentation  du sport automobile le plus rapide</p>
+</header>
+
+<div class="container">
+
+<div class="block">
+<img src="images/gettyimages.jpg"alt="voiture Formule 1">
+<div class="text">
+<h2>📘 Définition</h2>
+<p>
+La Formule 1 est un championnat mondial de courses automobiles créé pour
+opposer les voitures les plus rapides et les pilotes les plus talentueux.
+Elle est considérée comme la discipline reine du sport automobile.
+</p>
+</div>
+</div>
+
+<div class="block">
+<img src="images/f1-3d-race-car-icon-260nw-2326033695.webp">
+<div class="text">
+<h2>⚙️ Caractéristiques</h2>
+<p>
+Les voitures sont très légères, fabriquées en fibre de carbone,
+avec des moteurs hybrides puissants. Elles peuvent dépasser 350 km/h.
+L’aérodynamique permet une excellente adhérence dans les virages.
+</p>
+</div>
+</div>
+
+<div class="block">
+<img src="images/gettyimages-514946420-612x612.jpg">
+<div class="text">
+<h2>📅 Date de création</h2>
+<p>
+La Formule 1 a été officiellement créée en 1950.
+Le premier championnat du monde s’est déroulé en Europe
+et s’est ensuite étendu à tous les continents.
+</p>
+</div>
+</div>
+
+<div class="block">
+<img src="images/images.webp">
+<div class="text">
+<h2>✅ Avantages</h2>
+<p>
+✔ Développement de nouvelles technologies automobiles <br>
+✔ Spectacle sportif impressionnant <br> 
+✔ Création d’emplois et de grands événements mondiaux  <br>
+✔ Amélioration de la sécurité des voitures modernes  
+</p>
+</div>
+</div>
+
+<div class="block">
+<img src="images/gettyimages-514946420-612x612.jpg">
+<div class="text">
+<h2>❌ Inconvénients</h2>
+<p>
+❗ Coût très élevé pour les équipes <br>  
+❗ Pollution et forte consommation d’énergie <br>
+❗ Sport réservé à une élite financière <br>
+❗ Risques d’accidents malgré la sécurité  
+</p>
+</div>
+</div>
+
+</div> 
+
+<footer>
+  <img src="images/téléchargement.jpg"
+footer>
+
+</body>
+</html>
