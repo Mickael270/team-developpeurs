@@ -1,0 +1,53 @@
+body{
+    background-color: beige;
+}
+p{
+    font-size: 2em;
+    font-style: normal;
+    text-align: center;
+    color: black;
+}
+h1{
+    text-align: center;
+    color: white;
+    background-image:url(images/franco-alani-catafo45XRA-unsplash.jpg) ;
+    font-size: 3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    background-position: bottom;
+    padding:3%;
+    font-style: oblique;
+    text-transform: uppercase;
+}
+h2{
+    font-size: 3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    font-style: oblique;
+}
+h3{
+    font-size: 3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-decoration: underline;
+}
+h4{
+    font-size: 3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-decoration: underline;
+
+}
+footer{
+    font-style: italic;
+    text-align: right;
+    text-decoration: underline;
+    padding: 3%;
+    font-size: x-large;
+}
+li{
+    font-size: 2em;
+    text-decoration: underline;
+    text-transform: inherit;
+    padding: 1%;
+}
